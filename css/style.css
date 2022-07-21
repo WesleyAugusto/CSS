@@ -1,3 +1,21 @@
-h1 {
-    color: blue;
+h1{
+    color: blueviolet;
+    border: solid 1px red; 
+    padding: 20px 30px;
+    background-color: black;
+    margin: 60px;
+}
+.entrar{
+    border: solid 1px green;
+    padding: 20px;
+    background-color: greenyellow;
+}
+#button{
+   border:solid 1px red; 
+   background-color: blueviolet;
+   margin: 20px;
+   width: 200px;
+
+   
+   
 }
