@@ -19,3 +19,20 @@ h1{
    
    
 }
+/* at-rules @
+-@import
+-@media
+-@font-face
+-@keyframes
+*/
+@import url("http://127.0.0.1:5500/css/style.css."); /* maneira para pegar um css externo e interno <link rel="icon" href="../css/image/icons8-livre-de-spyware-16.png">*/
+
+ @media (min-width: 500px ){}
+ /*estilos em dispositivos com menos de 500px*/
+
+ @font-face{}
+ /* configuração da font */
+
+ @keyframes nameOfAnimation {}
+/* estilo das animaçoes */
+
